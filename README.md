@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi, my name is Dmitrii 👋
 
-<!--
-**kopenkinda/kopenkinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently looking for new  job ooprtunities
+- 🌱 I’m constantly learning things
+- 📫 Reach me:
+  - Telegram: [@leroifrancais](https://t.me/leroifrancais)
+  - E-Mail: [hi@kopenkin.tech](mailto:hi@kopenkin.tech)
+  - Twitch: [DmitriyK_](https://twitch.tv/dmitriyk_)
+- ⚡ Fun fact: I'll be streaming myself code fun things soon.
+### My last public project ⭐
+[![Steam 2FA CLI](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=kopenkinda&repo=steam-2fa-cli)](https://github.com/kopenkinda/steam-2fa-cli)
