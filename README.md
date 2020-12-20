@@ -1,6 +1,6 @@
 ### Hi, my name is Dmitrii 👋
 
-- 🔭 I’m currently looking for new  job ooprtunities
+- 🔭 I’m currently looking for new  job opportunities
 - 🌱 I’m constantly learning things
 - 📫 Reach me:
   - Telegram: [@leroifrancais](https://t.me/leroifrancais)
