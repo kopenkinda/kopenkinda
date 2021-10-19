@@ -1,6 +1,6 @@
 ### Hi, my name is Dmitrii 👋
 
-- 🏥 I’m currently an interm at hospitalidee
+- 🏥 I am currently in work-study at Ynov Toulouse Campus as a Junior Mentor
 - 🌱 I’m constantly learning things
 - 📫 Reach me:
   - Telegram: [@leroifrancais](https://t.me/leroifrancais)
