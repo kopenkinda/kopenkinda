@@ -1,11 +1,8 @@
-### Hi, my name is Dmitrii 👋
+I hate syncing your info on every single website on earth, so here's short, static information about me:
 
-- 🏥 I am currently in work-study at Ynov Toulouse Campus as a Junior Mentor
-- 🌱 I’m constantly learning things
-- 📫 Reach me:
-  - Telegram: [@leroifrancais](https://t.me/leroifrancais)
-  - E-Mail: [hi@kopenkin.tech](mailto:hi@kopenkin.tech)
-  - Twitch: [DmitriyK_](https://twitch.tv/dmitriyk_)
-- 💪 Fun fact: I've started powerlifting, and it is surprisingly fun
-### My latest public project ⭐
-[![Steam 2FA CLI](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=kopenkinda&repo=steam-2fa-cli&title_color=2d77dc&icon_color=2d77dc&text_color=8b949e&bg_color=00000000)](https://github.com/kopenkinda/steam-2fa-cli)
+I write full-stack web apps with Typescript, React with Next or Vite depending on the requirements, and Nest or Express for the backend. 
+I also stay up-to date with eferything happening in the tech world, if I find something interesting (service/library/article) I share it on my telegram chanel.
+I speak 3 languages: Native Russian, Fluent (C1) English and French.
+
+I go to the gym and cooking different countries cuisines.
+I also hope you have a good day
