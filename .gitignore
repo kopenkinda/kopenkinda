@@ -1,0 +1,12 @@
+.DS_Store
+
+# Never commit Codex credentials, history, caches, or local databases.
+codex/auth.json
+codex/history.jsonl
+codex/installation_id
+codex/models_cache.json
+codex/*.sqlite
+codex/*.sqlite-*
+codex/.codex-global-state.json*
+codex/logs/
+codex/sessions/
