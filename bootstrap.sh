@@ -110,8 +110,6 @@ install_managed_files() {
   local source=""
   local relative_path=""
 
-  link_entry "${REPO_DIR}/AGENTS.md" "${CODEX_DIR}/AGENTS.md"
-
   while IFS= read -r -d '' source; do
     relative_path="${source#"${REPO_DIR}/codex/"}"
     link_entry "${source}" "${CODEX_DIR}/${relative_path}"

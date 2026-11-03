@@ -12,7 +12,6 @@ cd kopenkinda-agents
 
 The bootstrap:
 
-- links the repository's `AGENTS.md` to `~/.codex/AGENTS.md`;
 - links files placed in `codex/` into `~/.codex/`;
 - links skills placed in `personal-skills/<name>/` into `~/.agents/skills/`;
 - installs the curated third-party skills in `third-party-skills.txt` globally for supported agents.
@@ -33,7 +32,7 @@ Skip network-backed third-party skill installation when needed:
 
 ## Customize
 
-- Edit `AGENTS.md` for preferences that should apply in every repository.
+- Global agent preferences live in the dotfiles repo as `~/AGENTS.global.md`; its `~/.config/dotfiles/setup.sh` links them for Codex and Claude Code.
 - Put authored skills in `personal-skills/<skill-name>/SKILL.md`.
 - Edit `third-party-skills.txt` to change installed external skills.
 - Put safe, portable Codex configuration files in `codex/`. Do not add `auth.json`, history, databases, caches, tokens, or machine-local state.
